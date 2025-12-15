@@ -17,3 +17,7 @@
 4. The script will display blocked files and add corresponding firewall rules.
 
 **Note**: Requires administrative privileges to modify Windows Firewall rules.
+
+## Contributing / Suggestions
+
+Suggestions for improvements or bug fixes are **very welcome**!
